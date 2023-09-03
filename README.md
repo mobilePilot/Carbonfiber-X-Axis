@@ -20,7 +20,7 @@
 ## What's different:
 
 - XY joints changes:
-  - derived from the [pinmod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Pins_Mod)
+  - derived from the [pinmod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod)
   - room for MGN12 (heavily inspired by [arkeet](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12))
   - adjustment slots for the tube
   - removed unnecessary cutouts unter the y carriages (actually saves weight)
